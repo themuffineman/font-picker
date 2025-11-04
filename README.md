@@ -1,4 +1,3 @@
-
 # 📚 Font Repository
 
 A lightweight, open-source repository of font metadata and preview icons.
@@ -8,9 +7,9 @@ Perfect for building font pickers, design tools, or any app that needs quick acc
 
 ## 🚀 Features
 
-* ✅ **Easy-to-use data** – Fonts are exported as a simple array of objects.
-* 🎨 **Visual previews** – Each font includes an image icon (how the font actaully looks like).
-* 🌍 **Open-source** – Extend, modify, or integrate however you like.
+- ✅ **Easy-to-use data** – Fonts are exported as a simple array of objects.
+- 🎨 **Visual previews** – Each font includes an image icon (how the font actaully looks like).
+- 🌍 **Open-source** – Extend, modify, or integrate however you like.
 
 ---
 
@@ -42,6 +41,7 @@ Clone or install the repository:
 git clone https://github.com/themuffineman/font-picker.git
 cd font-picker
 ```
+
 ---
 
 ## 🛠 Usage
@@ -89,7 +89,3 @@ function FontPicker() {
 ## 📜 License
 
 MIT License – Free to use, share, and modify.
-
----
-
-Would you like me to make the README **more user-facing** (like for designers using it directly) or **developer-focused** (for coders integrating it into apps)?
